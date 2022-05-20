@@ -65,7 +65,8 @@ dt.predict([[5,6]])
 ![dh](r2.png)
 
 
-### PREDICTION
+
+## PREDICTION
 ![dh](final.png)
 
 
